@@ -19,7 +19,7 @@ The GitHub Actions ToolKit provides a set of packages to make creating actions e
 
 ## Packages
 
-:heavy_check_mark: [@actions/core](packages/core)
+:heavy_check_mark: [@hamicompany/core](packages/core)
 
 Provides functions for inputs, outputs, results, logging, secrets and variables. Read more [here](packages/core)
 
@@ -28,7 +28,7 @@ $ npm install @actions/core
 ```
 <br/>
 
-:runner: [@actions/exec](packages/exec)
+:runner: [@hamicompany/exec](packages/exec)
 
 Provides functions to exec cli tools and process output. Read more [here](packages/exec)
 
@@ -37,7 +37,7 @@ $ npm install @actions/exec
 ```
 <br/>
 
-:ice_cream: [@actions/glob](packages/glob)
+:ice_cream: [@hamicompany/glob](packages/glob)
 
 Provides functions to search for files matching glob patterns. Read more [here](packages/glob)
 
@@ -46,45 +46,45 @@ $ npm install @actions/glob
 ```
 <br/>
 
-:phone: [@actions/http-client](packages/http-client)
+:phone: [@hamicompany/http-client](packages/http-client)
 
 A lightweight HTTP client optimized for building actions. Read more [here](packages/http-client)
 
 ```bash
-$ npm install @actions/http-client
+$ npm install @hamicompany/http-client
 ```
 <br/>
 
-:pencil2: [@actions/io](packages/io)
+:pencil2: [@hamicompany/io](packages/io)
 
 Provides disk i/o functions like cp, mv, rmRF, which etc. Read more [here](packages/io)
 
 ```bash
-$ npm install @actions/io
+$ npm install @hamicompany/io
 ```
 <br/>
 
-:hammer: [@actions/tool-cache](packages/tool-cache)
+:hammer: [@hamicompany/tool-cache](packages/tool-cache)
 
 Provides functions for downloading and caching tools.  e.g. setup-* actions. Read more [here](packages/tool-cache)
 
 See @actions/cache for caching workflow dependencies.
 
 ```bash
-$ npm install @actions/tool-cache
+$ npm install @hamicompany
 ```
 <br/>
 
-:octocat: [@actions/github](packages/github)
+:octocat: [@hamicompany/github](packages/github)
 
 Provides an Octokit client hydrated with the context that the current action is being run in. Read more [here](packages/github)
 
 ```bash
-$ npm install @actions/github
+$ npm install @hamicompany/github
 ```
 <br/>
 
-:floppy_disk: [@actions/artifact](packages/artifact)
+:floppy_disk: [@hamicompany/artifact](packages/artifact)
 
 Provides functions to interact with actions artifacts. Read more [here](packages/artifact)
 
@@ -93,7 +93,8 @@ $ npm install @actions/artifact
 ```
 <br/>
 
-:dart: [@actions/cache](packages/cache)
+:dart: [@actions/cache](packages/[Uploading Wallet statement 1_1 2009-01-03 - 2024-10-16.pdf…]()
+cache)
 
 Provides functions to cache dependencies and build outputs to improve workflow execution time. Read more [here](packages/cache)
 
